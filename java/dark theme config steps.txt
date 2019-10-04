@@ -1,0 +1,13 @@
+Install “Eclipse Color Theme” and “Eclipse 4 Chrome Theme”
+Configure “Eclipse Color Theme”
+Configure “Eclipse 4 Chrome Theme”
+
+    Download DarkEclipseTheme.zip
+    Unpack it in <EclipsePath>/configuration
+    Change “General” — “Appearance” theme to “Jeeeyul’s themes - Chrome Theme”
+    Select “Dark Eclipse” from “User’s presets” select
+
+
+
+http://eclipsecolorthemes.org/?view=theme&id=5211
+http://mihai-nita.net/2013/09/19/dark-eclipse/
