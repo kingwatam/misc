@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Famous Scientists</string>
+    <string name="action_settings">Settings</string>
+    <string name="turing_name">Alan Turing</string>
+    <string name="turing_description">Alan Turing was born on June 23, 1912, in London. In his seminal 1936 paper, he proved that there cannot exist any universal algorithmic method of determining truth in mathematics, and that mathematics will always contain undecidable propositions. That paper also introduced the &quot;Turing machine. His papers on the subject are widely acknowledged as the foundation of research in artificial intelligence.</string>
+    <string name="pascal_name">Blaise Pascal</string>
+    <string name="pascal_description">Mathematician Blaise Pascal was born on June 19, 1623, in Clermont-Ferrand, France. In 1642, he invented the Pascaline, an early calculator. Also in the 1640s, he validated Torricelli\'s theory concerning the cause of barometrical variations. In the 1650s, Pascal laid the foundation of probability theory and published the theological works Pénsees and Provinciales. Pascal died in Paris on August 19, 1662.</string>
+
+</resources>
